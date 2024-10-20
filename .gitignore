@@ -1,0 +1,22 @@
+# Environment files
+keyHolder.env
+pyenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# User credentials
+user_credentials.txt
+
+# Specific directories (if they contain generated or sensitive data)
+/Include/
+/Lib/
+/Scripts/
+
+# Keep .gitignore file
+!.gitignore
+
+# OS-specific files (just in case)
+.DS_Store
+Thumbs.db
