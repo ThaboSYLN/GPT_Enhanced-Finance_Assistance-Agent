@@ -1,6 +1,5 @@
 import streamlit as st
 from openai import OpenAI
-import llama_index
 import os
 import requests
 import yfinance as yf
