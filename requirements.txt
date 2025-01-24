@@ -5,6 +5,7 @@ yfinance==0.2.27
 plotly==5.10.0
 python-dotenv==1.0.0
 requests
+Pillow>=6.2.0,<10.0
 pip>=24.2
 setuptools>=67.0.0
 wheel>=0.36.2
