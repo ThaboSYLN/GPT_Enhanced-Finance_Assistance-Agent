@@ -51,6 +51,9 @@ streamlit run app.py
 - Private Advisory: Get personalized financial advice
 - Stock Analysis: Analyze stock performance with interactive charts
 
+## Project Demo
+  please download the video:- https://drive.google.com/file/d/1UMNDcDrP7UGPH3Z4WYVS_z79H5n_WoBu/view?usp=drive_link
+
 ## Limitations and Future Improvements
 - Currently limited to a predefined set of financial news sources
 - Future plans include:
