@@ -3,7 +3,7 @@ openai
 pandas
 yfinance
 plotly
-python-doten
+python-dotenv
 requests
 Pillow
 pip
